@@ -6,7 +6,7 @@ class JDBCDemoMain{
 
 		System.out.println("Hello Codebegun::: Rajesh ");
 
-		System.out.println("Git is Complicated");
+		System.out.println("Git is Complicated and easy");
 
 		
 	}
